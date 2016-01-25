@@ -4,4 +4,4 @@ title: Github
 layout: post
 ---
 I've had this account since 2012 I better start using it >_<
-<p><img src="https://dl.dropboxusercontent.com/u/6929481/Blog/posts/01.png" width=100%></p>
+<p><img src="https://dl.dropboxusercontent.com/u/6929481/Blog/posts/01.png" style="width:100%"></p>
