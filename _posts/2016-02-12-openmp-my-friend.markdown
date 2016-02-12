@@ -1,6 +1,6 @@
 ---
 published: true
-title: openMP my friend
+title: OpenMP my friend
 layout: post
 ---
 Gosh I never thought doing parallel coding would be this easy. 
