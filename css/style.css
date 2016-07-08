@@ -26,10 +26,10 @@ a.links
 
 .fbb
 {
-    margin: 0;
+    margin: 5px;
     position: absolute;
-    top: 50%;
-    left: 50%;
+    /* top: 53%; */
+    left: 52%;
     margin-right: -50%;
-    transform: translate(-50%, 50%)
+    transform: translate(-35%, -50%);
 }
