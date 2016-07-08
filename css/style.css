@@ -15,10 +15,21 @@ a.links
 .fb
 {
   display: inline;
-  margin: 0 0 -0.6rem;
+  margin: 0 0 -0.3rem;
   border-radius: 5px;
+  vertical-align:middle
 
 }
 .img-circle {
     border-radius: 50%;
+}
+
+.fbb
+{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, 50%)
 }
