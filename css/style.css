@@ -15,7 +15,7 @@ a.links
 .fb
 {
   display: inline;
-  margin: 0 0 0rem;
+  margin: 0 0 0.2rem;
   border-radius: 5px;
   vertical-align:middle
 
@@ -34,7 +34,8 @@ a.links
     transform: translate(-35%, -50%);
 }
 
-span
+span.mess
 {
     font-family: 'Farsan', cursive;
+    font-size: x-large;
 }
