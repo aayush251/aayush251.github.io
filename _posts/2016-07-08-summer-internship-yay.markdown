@@ -12,4 +12,4 @@ Did you know?
 you can use <ng-include> to include a SVG image with its data!!
 
 for people who don't know SVG = images constructed using code [plus less in size AND extremely customizable)  
-<img src="https://dl.dropboxusercontent.com/u/6929481/Blog/posts/01.png" style="width:100%">
+<p><img src="images/03.jpg" style="width:100%"></p>
