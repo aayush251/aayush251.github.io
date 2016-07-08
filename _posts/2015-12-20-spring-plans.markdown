@@ -2,6 +2,7 @@
 published: true
 title: Spring Plans
 layout: post
+categories: [Random]
 ---
 This spring break I'm thinking of working on doing a small project to know how good someone's memory is (Memory game) and to predict wether the user has dementia or not.
 
