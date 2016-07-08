@@ -39,3 +39,16 @@ span.mess
     font-family: 'Farsan', cursive;
     font-size: x-large;
 }
+
+
+.linked
+{
+    width: 35%;
+    margin: 5px;
+    position: absolute;
+    top: 31%;
+    left: 41%;
+    margin-right: -50%;
+    transform: translate(-35%, -50%);
+}
+}
