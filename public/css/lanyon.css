@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
   font-family: 'Dosis', sans-serif;  font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
-  background-color: #1f2b4c;
+  background-color: #101010;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
