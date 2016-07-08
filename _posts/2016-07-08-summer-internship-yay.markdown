@@ -2,6 +2,7 @@
 published: true
 title: Summer internship yay! 
 layout: post
+categories: [Random]
 ---
 Working in Dell for summer 
 SO MUCH TO LEARNNNN
