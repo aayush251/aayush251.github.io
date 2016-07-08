@@ -7,4 +7,4 @@ This spring break I'm thinking of working on doing a small project to know how g
 
 Secondly I plan to work on Tensorflow google's new Machine learning API (As far as I've seen its actually a decision tree thing).
 Link to Tensorflow : 
-<iframe  height="315" src="https://www.youtube.com/embed/oZikw5k_2FM" frameborder="0" allowfullscreen></iframe>
+<iframe  height="315" width="100%" src="https://www.youtube.com/embed/oZikw5k_2FM" frameborder="0" allowfullscreen></iframe>
