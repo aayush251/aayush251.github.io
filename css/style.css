@@ -2,6 +2,7 @@ p.side
 {
     font-family: 'Farsan', cursive;
     font-size: x-large;
+    display: inline;
 }
 
 a.links
