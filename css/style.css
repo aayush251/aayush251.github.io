@@ -19,3 +19,6 @@ a.links
   border-radius: 5px;
 
 }
+.img-circle {
+    border-radius: 50%;
+}
