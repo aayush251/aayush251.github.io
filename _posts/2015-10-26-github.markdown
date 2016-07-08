@@ -2,6 +2,7 @@
 published: true
 title: Github
 layout: post
+categories: [Random]
 ---
 I've had this account since 2012 I better start using it >_<
 <img src="https://dl.dropboxusercontent.com/u/6929481/Blog/posts/01.png" style="width:100%">
