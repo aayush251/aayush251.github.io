@@ -9,3 +9,11 @@ a.links
     font-family: 'Farsan', cursive;
     font-size: x-large;
 }
+
+.fb
+{
+  display: block;
+  margin: 0 0 -0.3rem;
+  border-radius: 5px;
+
+}
