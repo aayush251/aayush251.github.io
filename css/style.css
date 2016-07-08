@@ -12,43 +12,14 @@ a.links
     text-decoration: none;
 }
 
-.fb
-{
-  display: inline;
-  margin: 0 0 0.2rem;
-  border-radius: 5px;
-  vertical-align:middle
-
-}
 .img-circle {
     border-radius: 50%;
 }
 
-.fbb
-{
-    margin: 5px;
-    position: absolute;
-    /* top: 53%; */
-    left: 52%;
-    margin-right: -50%;
-    transform: translate(-35%, -50%);
-}
-
-span.mess
+span.pdate
 {
     font-family: 'Farsan', cursive;
-    font-size: x-large;
+    font-size: smaller;
 }
 
-
-.linked
-{
-    width: 35%;
-    margin: 5px;
-    position: absolute;
-    top: 31%;
-    left: 41%;
-    margin-right: -50%;
-    transform: translate(-35%, -50%);
-}
 
