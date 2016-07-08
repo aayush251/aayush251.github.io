@@ -19,7 +19,7 @@ a.links
 span.pdate
 {
     font-family: 'Farsan', cursive;
-    font-size: smaller;
+    font-size: inherit;
 }
 
 
