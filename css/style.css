@@ -9,6 +9,12 @@ a.links
 {
     font-family: 'Farsan', cursive;
     font-size: x-large;
+    text-decoration: none;
+}
+
+a.mess
+{
+    text-decoration: none;
 }
 
 .fb
