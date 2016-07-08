@@ -2,6 +2,7 @@
 published: true
 title: OpenMP my friend
 layout: post
+categories: [Programming]
 ---
 Gosh I never thought doing parallel coding would be this easy. 
 
