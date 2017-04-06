@@ -103,3 +103,7 @@ h1, h2, h3, h4, h5, h6
   background-color: #ee802f;
   background-position: -384px -96px;
 }
+
+.tableimg {
+    background-color: transparent;
+}
