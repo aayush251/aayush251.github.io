@@ -6,6 +6,8 @@ categories: [Random]
 ---
 i code kek
 
+{% highlight python %}
+
 #!/usr/bin/env python
 
 def initalize_me():
@@ -53,3 +55,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+{% endhighlight %}
