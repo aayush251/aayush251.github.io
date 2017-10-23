@@ -1,0 +1,55 @@
+---
+published: true
+title: Github
+layout: post
+categories: [Random]
+---
+i code kek
+
+#!/usr/bin/env python
+
+def initalize_me():
+    grid = [[0 for y in range(50)] for x in range(50)]
+    return grid
+
+def createacorn(matrix):
+    x=matrix.pop(10)
+    x.pop(10)
+    x.insert(10,1)
+    matrix.insert(10,x)
+    x=matrix.pop(11)
+    x.pop(12)
+    x.insert(12,1)
+    matrix.insert(11,x)
+    x=matrix.pop(12)
+    x.pop(9)
+    x.insert(9,1)
+    x.pop(10)
+    x.insert(10,1)
+    x.pop(13)
+    x.insert(13,1)
+    x.pop(14)
+    x.insert(14,1)
+    x.pop(15)
+    x.insert(15,1)
+    matrix.insert(12,x)
+    return matrix
+
+def run_gameoflife(matrix,type):
+    if type=='acorn':
+        matrix = createacorn(matrix)
+        occurance = [[slist.index(0)  for slist in] for slist in matrix]]
+        print occurance
+    return matrix
+
+def main():
+    f = open("gol.txt","w")
+    matrix = initalize_me()
+    type = 'acorn'
+    gameoflife = run_gameoflife(matrix,type)
+    #print gameoflife
+    for life in matrix:
+        print >> f, life
+
+if __name__ == '__main__':
+    main()
