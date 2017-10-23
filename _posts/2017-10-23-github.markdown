@@ -1,6 +1,6 @@
 ---
 published: true
-title: Github
+title: First Python code!
 layout: post
 categories: [Random]
 ---
