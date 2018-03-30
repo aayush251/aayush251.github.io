@@ -2,10 +2,8 @@
 published: true
 title: New Project~
 layout: post
-categories: [Prgoramming]
+categories: [Programming]
 ---
 
-So I've been working on a project for a while now but can't seem to get an alogrithm down to do it,
-basically a music recommendation (I know everyone already done it) but I feel like its always hit and miss for me atleast. 
-Need to use machine learning and other stuff to figure out a way D:
+So I've been working on a project for a while now but can't seem to get an alogrithm down to do it, basically a music recommendation (I know everyone already done it) but I feel like its always hit and miss for me atleast. Need to use machine learning and other stuff to figure out a way D:
 <p><img src="/images/03-30-18.jpg" style="width:100%"></p>
