@@ -1,0 +1,9 @@
+---
+published: true
+title: Japan Trip
+layout: post
+categories: [Travel]
+---
+
+
+<p align="center"><img src="/images/osaka_castle.jpg" style="width:60%"></p>

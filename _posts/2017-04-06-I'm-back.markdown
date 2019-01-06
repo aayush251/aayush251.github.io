@@ -1,7 +1,0 @@
----
-published: true
-title: Github
-layout: post
-categories: [Random]
----
-Testing why blog isnt showing up LOL
